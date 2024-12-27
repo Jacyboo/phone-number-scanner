@@ -1,0 +1,4 @@
+phonenumbers==8.13.26
+requests==2.31.0
+truecallerpy==2.2.0
+python-dotenv==1.0.0 
